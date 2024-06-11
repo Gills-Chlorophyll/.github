@@ -13,7 +13,7 @@ In our integrated system, nutrient-rich water from fish tanks provides essential
 ## Why Gills and Chlorophyll?
 
 - __Sustainability__: Our method reduces environmental impact by using significantly less water than traditional farming and eliminating agricultural runoff.
-- - __Quality__: We produce high-quality, pesticide-free vegetables and herbs, along with healthy, sustainably raised fish.
+- __Quality__: We produce high-quality, pesticide-free vegetables and herbs, along with healthy, sustainably raised fish.
 - __Innovation__: By harnessing the power of nature, we create a productive and efficient farming system that can be implemented in diverse environments, from urban rooftops to rural landscapes.
 
 ## Join Us
