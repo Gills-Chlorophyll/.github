@@ -1,6 +1,6 @@
 ## Gills & Chlorophyll - Harvesting Harmony
 
-At Gills & Chlorophyll, we are pioneering the future of sustainable agriculture through the innovative method of aquaponics. Our unique approach harmoniously combines aquaculture and hydroponics, creating a symbiotic environment where fish and plants thrive together.
+At Gills & Chlorophyll, we are pioneering the future of sustainable agriculture through the innovative method of aquaponics. 🌿+🐟 Our unique approach harmoniously combines aquaculture and hydroponics, creating a symbiotic environment where fish and plants thrive together.
 
 ## Our Vision
 
