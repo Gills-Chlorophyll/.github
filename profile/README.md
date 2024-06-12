@@ -31,4 +31,8 @@ As I write this up we have also plans to add jalepeanos alongside the tomatoes. 
 
 ## 🇮🇳 Proudly Indian
 
-At Gills and Chlorophyll, we are deeply rooted in the rich agricultural heritage of India. Drawing inspiration from our nation's age-old farming traditions and innovative spirit, we are committed to advancing sustainable agriculture for the future. Our aquaponics systems are designed and developed locally, utilizing the wealth of knowledge and resources that India has to offer. By embracing modern technology and eco-friendly practices, we aim to contribute to India's food security and environmental sustainability. Proudly Indian, we are dedicated to nurturing our land, empowering our communities, and providing fresh, healthy, and nutritious food for all. Join us as we pave the way for a greener and more prosperous India.
+At Gills and Chlorophyll, we are deeply rooted in the rich agricultural heritage of India. Drawing inspiration from our nation's age-old farming traditions and innovative spirit, we are committed to advancing sustainable agriculture for the future. 
+
+Our aquaponics systems are designed and developed locally, utilizing the wealth of knowledge and resources that India has to offer. By embracing modern technology and eco-friendly practices, we aim to contribute to India's food security and environmental sustainability. 
+
+Proudly Indian, we are dedicated to nurturing our land, empowering our communities, and providing fresh, healthy, and nutritious food for all. Join us as we pave the way for a greener and more prosperous India.
