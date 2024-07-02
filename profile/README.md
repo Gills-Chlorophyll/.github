@@ -22,6 +22,7 @@ Join us on our journey to create a greener future with Gills and Chlorophyll. To
 Welcome to the future of farming. Welcome to Gills and Chlorophyll - Harvesting Harmony.
 
 ## 📑 Our journey
+Gills and Chlorophyll is the result of a strategic joint venture between Eensymachines and Metcons, Pune. Eensymachines brings unparalleled expertise in developing cloud-connected IoT solutions, enabling advanced technological integration and remote monitoring capabilities within our aquaponics system. Meanwhile, Metcons Pune contributes its extensive experience in fabricating high-quality vinyls and robust structural components, ensuring the physical integrity and durability of our setup. This collaboration was a natural convergence of complementary skills and vision, akin to a startup poised for success. Together, we have combined cutting-edge technology with superior craftsmanship to create a pioneering aquaponics system that stands as a testament to innovation and sustainability.
 
 We began our journey as two modest engineers from the Maharashtra Institute of Technology, Pune. 🇮🇳 After two decades of diverse professional experiences—one in corporate IT and the other managing a successful family business—we embarked on prototyping a cloud-connected urban farm. Inspired by our children's enthusiasm for gardening and growing their own food, we recognized the unique passion of Generation Alpha for returning to their roots and fostering sustainable practices. It's truly heartening to see them embrace the art of growing their own food.
 
